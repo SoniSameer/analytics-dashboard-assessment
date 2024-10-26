@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/analytics-dashboard-assessment/static/css/main.fe7ddb9e.css",
+    "main.js": "/analytics-dashboard-assessment/static/js/main.9c9bfc8a.js",
+    "index.html": "/analytics-dashboard-assessment/index.html",
+    "main.fe7ddb9e.css.map": "/analytics-dashboard-assessment/static/css/main.fe7ddb9e.css.map",
+    "main.9c9bfc8a.js.map": "/analytics-dashboard-assessment/static/js/main.9c9bfc8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe7ddb9e.css",
+    "static/js/main.9c9bfc8a.js"
+  ]
+}
